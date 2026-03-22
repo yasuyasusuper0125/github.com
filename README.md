@@ -1,4 +1,7 @@
-<! DOCTYPE html> <html lang="ja"> <head> <meta charset="uft-8">
+<! DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="uft-8">
 <title>web</title>
 </head>
 <body>
